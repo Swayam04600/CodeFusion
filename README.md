@@ -1,6 +1,6 @@
-# WebSynth
+# CodeFusion
 
-WebSynth is a compiler that can compile HTML, CSS, and JavaScript into a cohesive web application. It simplifies the development process by merging the three core web technologies and generating optimized code for web deployment.
+CodeFusion is a compiler that can compile HTML, CSS, and JavaScript into a cohesive web application. It simplifies the development process by merging the three core web technologies and generating optimized code for web deployment.
 
 ## Features
 
@@ -11,18 +11,18 @@ WebSynth is a compiler that can compile HTML, CSS, and JavaScript into a cohesiv
 
 ## Installation
 
-To install WebSynth, follow the instructions below:
+To install CodeFusion, follow the instructions below:
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/websynth.git
+    git clone https://github.com/yourusername/codefusion.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd websynth
+    cd codefusion
     ```
 
 3. Install the required dependencies:
@@ -39,12 +39,12 @@ To install WebSynth, follow the instructions below:
 
 ## Usage
 
-To use WebSynth, follow these steps:
+To use CodeFusion, follow these steps:
 
 1. Run the application:
 
     ```bash
-    python websynth.py
+    python codefusion.py
     ```
 
 2. Follow the on-screen instructions to compile your HTML, CSS, and JavaScript code.
@@ -78,8 +78,8 @@ We welcome contributions from the community! If you'd like to contribute, please
 
 ## License
 
-WebSynth is open-source software licensed under the [MIT License](LICENSE).
+CodeFusion is open-source software licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or feedback, feel free to [open an issue](https://github.com/yourusername/websynth/issues) on GitHub or reach out to us via email at your-email@example.com.
+For any questions or feedback, feel free to [open an issue](https://github.com/yourusername/codefusion/issues) on GitHub or reach out to us via email at your-email@example.com.
