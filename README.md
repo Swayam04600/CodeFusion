@@ -1,6 +1,6 @@
 # CodeFusion
 
-CodeFusion is a compiler that can compile HTML, CSS, and JavaScript into a cohesive web application. It simplifies the development process by merging the three core web technologies and generating optimized code for web deployment.
+CodeFusion is a compiler that can compile HTML, CSS into a cohesive web application. It simplifies the development process by merging the three core web technologies and generating optimized code for web deployment.
 
 ## Features
 
